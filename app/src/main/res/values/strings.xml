@@ -7,4 +7,5 @@
     <string name="lower">Lower</string>
     <string name="correct">Your guess was correct!</string>
     <string name="incorrect">Your guess was incorrect :(</string>
+    <string name="directions">Guess if the next throw is going to be lower, equal or higher.</string>
 </resources>
